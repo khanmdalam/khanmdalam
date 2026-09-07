@@ -1,60 +1,64 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Noor%20Alam&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18&descColor=AAAAFF" width="100%"/>
+
 <div align="center">
 
-# 👋 Hi, I'm Noor Alam
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;I+turn+ideas+into+working+products;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+%F0%9F%9A%80" />
 
-### 💻 Full Stack Developer | Java & MERN | DSA Enthusiast
+<br/>
 
-<p>
-  <a href="https://github.com/khanmdalam">
-    <img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=khanmdalam&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=khanmdalam\&label=Profile%20Views\&color=00f7ff\&style=flat-square)](https://github.com/khanmdalam)
+[![GitHub](https://img.shields.io/badge/GitHub-khanmdalam-181717?style=flat-square\&logo=github)](https://github.com/khanmdalam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:nooralam1342004@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Engineering Student**
 
 💻 Passionate about **Software Engineering & Full Stack Development**
 
-🧠 Practicing **Data Structures & Algorithms**
+🧠 Solved **300+ Data Structures & Algorithms problems**
 
-⚡ Building scalable and user-friendly web applications
+⚡ Building **scalable, responsive and user-friendly applications**
 
-🌱 Currently improving my skills in **Java, Spring Boot, React & Backend Development**
+☕ Strong interest in **Java, Spring Boot & Backend Development**
 
-🎯 Career Goal: Become a **Software Engineer**
+🌐 Experienced with the **MERN Stack**
+
+🌱 Currently improving **System Design, Backend Development & DSA**
+
+🎯 Goal: Become a **Software Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -65,37 +69,45 @@
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🌦️ Fullstack Weather App
+### 🛒 FreshMart — Online Grocery Store
 
-Real-time weather application with API integration and responsive UI.
-
-**Tech:** React • Node.js • API Integration
-
-### 💬 Full Stack Chat Application
-
-Real-time messaging application with authentication and instant communication.
-
-**Tech:** React • Node.js • MongoDB • Socket.io
-
-### 💼 MERN Job Portal
-
-Full-stack job portal connecting candidates and recruiters with job management features.
-
-**Tech:** MongoDB • Express.js • React • Node.js
-
-### 🛒 FreshMart Online Store
-
-Full-stack grocery e-commerce platform with authentication, products, cart and ordering functionality.
+A full-stack grocery e-commerce platform with product management, authentication, cart and ordering functionality.
 
 **Tech:** React • Node.js • Express.js • MongoDB
 
-### 🎓 LMS
+---
 
-Learning Management System designed for managing educational content and users.
+### 💬 Full Stack Chat Application
 
-**Tech:** JavaScript • React • Backend APIs
+Real-time chat application with authentication and instant messaging using WebSockets.
+
+**Tech:** React • Node.js • MongoDB • Socket.io • JWT
+
+---
+
+### 💼 MERN Job Recommendation Platform
+
+A job platform designed to connect candidates with relevant job opportunities and provide recruiters with job-management capabilities.
+
+**Tech:** MongoDB • Express.js • React • Node.js
+
+---
+
+### 🎫 Online Ticket Booking System
+
+Full-stack ticket booking application designed to manage users, bookings and ticket-related operations.
+
+**Tech:** Java • JSP/Servlet • MySQL
+
+---
+
+### 🎓 EduConnect / LMS
+
+Learning platform for managing educational content, users and learning activities.
+
+**Tech:** React • JavaScript • Backend APIs
 
 ---
 
@@ -123,23 +135,49 @@ Learning Management System designed for managing educational content and users.
 
 ## 🧠 DSA & Problem Solving
 
-* 🟢 Solved **300+ DSA Problems**
-* 💻 Practicing coding regularly
-* 📚 Strong focus on Java & problem solving
-* 🎯 Preparing for Software Engineering roles
+<div align="center">
+
+### 💻 300+ Problems Solved
+
+</div>
+
+* 🟢 Solved **300+ DSA problems**
+* ☕ Primary problem-solving language: **Java**
+* 🧩 Strong focus on **Arrays, Strings, Linked Lists, Trees & Graphs**
+* 🔍 Practicing **Dynamic Programming & Advanced DSA**
+* 🎯 Preparing for **Software Engineering interviews**
+* 📚 Consistent focus on problem solving and coding
 
 ---
 
-## 🏆 Achievements & Goals
+## 📈 Coding Profiles
 
-| 🎯 Area                   | Progress               |
-| ------------------------- | ---------------------- |
-| 💻 Full Stack Development | 🔥 Advanced            |
-| 🧠 DSA                    | 🔥 Consistent Practice |
-| ☕ Java                    | 🚀 Improving           |
-| ⚛️ React                  | 🚀 Strong              |
-| 🗄️ Databases             | 🚀 Strong              |
-| 🔧 Backend Development    | 🌱 Growing             |
+<div align="center">
+
+<a href="https://github.com/khanmdalam">
+<img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/ansari2004/">
+<img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Skills Progress
+
+| 🚀 Area           | Level                  |
+| ----------------- | ---------------------- |
+| 💻 Java           | 🔥 Advanced            |
+| 🌐 MERN Stack     | 🔥 Advanced            |
+| ⚛️ React          | 🚀 Strong              |
+| 🟢 Node.js        | 🚀 Strong              |
+| ☕ Spring Boot     | 🌱 Improving           |
+| 🧠 DSA            | 🔥 Consistent Practice |
+| 🗄️ Databases     | 🚀 Strong              |
+| 🏗️ System Design | 🌱 Learning            |
 
 ---
 
@@ -150,6 +188,35 @@ Learning Management System designed for managing educational content and users.
 [![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanmdalam\&theme=tokyo-night\&hide_border=true)](https://github.com/khanmdalam)
 
 </div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Java & Spring Boot
+        ↓
+Backend Architecture
+        ↓
+System Design
+        ↓
+Scalable Applications
+        ↓
+Software Engineering 🚀
+```
+
+---
+
+## 🎯 2026 Goals
+
+* [x] Build Full Stack Projects
+* [x] Solve 300+ DSA Problems
+* [x] Strengthen Java & OOP
+* [x] Learn MERN Stack
+* [ ] Master Spring Boot
+* [ ] Improve System Design
+* [ ] Contribute to Open Source
+* [ ] Crack a Software Engineering Role 🚀
 
 ---
 
@@ -165,6 +232,10 @@ Learning Management System designed for managing educational content and users.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mailto:nooralam1342004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -174,5 +245,7 @@ Learning Management System designed for managing educational content and users.
 ### 💡 "Code. Learn. Build. Repeat. 🚀"
 
 ⭐ **Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
 </div>
