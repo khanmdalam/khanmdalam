@@ -1,14 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Noor%20Alam&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20MERN&descAlignY=58&descSize=18&descColor=AAAAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=Noor%20Alam&amp;fontSize=55&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20MERN&amp;descAlignY=58&amp;descSize=18&amp;descColor=AAAAFF" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;I+turn+ideas+into+working+products;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;I+turn+ideas+into+working+products;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+%F0%9F%9A%80" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=khanmdalam\&label=Profile%20Views\&color=00f7ff\&style=flat-square)](https://github.com/khanmdalam)
+
 [![GitHub](https://img.shields.io/badge/GitHub-khanmdalam-181717?style=flat-square\&logo=github)](https://github.com/khanmdalam)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
+
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:nooralam1342004@gmail.com)
 
 </div>
@@ -39,31 +42,31 @@
 
 ### 💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql" />
 </p>
 
 ### 🌐 Frontend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### 🔧 Tools & Technologies
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
@@ -89,7 +92,7 @@ Real-time chat application with authentication and instant messaging using WebSo
 
 ### 💼 MERN Job Recommendation Platform
 
-A job platform designed to connect candidates with relevant job opportunities and provide recruiters with job-management capabilities.
+A full-stack job platform connecting candidates and recruiters with job management functionality.
 
 **Tech:** MongoDB • Express.js • React • Node.js
 
@@ -115,9 +118,9 @@ Learning platform for managing educational content, users and learning activitie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khanmdalam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khanmdalam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmdalam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmdalam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
 
 </div>
 
@@ -127,7 +130,7 @@ Learning platform for managing educational content, users and learning activitie
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=khanmdalam&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=khanmdalam&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
 
@@ -155,11 +158,11 @@ Learning platform for managing educational content, users and learning activitie
 <div align="center">
 
 <a href="https://github.com/khanmdalam">
-<img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/ansari2004/">
-<img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -225,15 +228,15 @@ Software Engineering 🚀
 <div align="center">
 
 <a href="https://github.com/khanmdalam">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin"/>
 </a>
 
 <a href="mailto:nooralam1342004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -246,6 +249,6 @@ Software Engineering 🚀
 
 ⭐ **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
