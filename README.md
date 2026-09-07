@@ -38,9 +38,9 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Noor Alam**, a Computer Science Engineering student and aspiring **Software Engineer** passionate about building scalable, user-friendly and real-world applications.
+Hi, I'm Noor Alam, a final-year Computer Science Engineering student and aspiring Software Engineer with a strong interest in building scalable, reliable, and user-focused applications.
 
-I enjoy working across the full development lifecycle — from designing responsive interfaces to building backend APIs and managing databases.
+I enjoy working across the full development lifecycle — from designing responsive and intuitive interfaces to developing backend APIs, integrating databases, and solving real-world problems through clean and efficient code.
 
 * 🎓 **B.Tech Computer Science & Engineering**
 * 🏫 **Galgotias University**
