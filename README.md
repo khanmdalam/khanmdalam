@@ -4,12 +4,11 @@
 
 ### 💻 Full Stack Developer | Java • MERN • Spring Boot
 
-<!-- Colorful Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=NOOR%20ALAM&amp;fontSize=52&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Spring%20Boot&amp;descAlignY=60&amp;descSize=18" width="100%" alt="Noor Alam Header"/>
+<!-- Premium 3D Glow Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:0f0c29,75:302b63,100:00F7FF&amp;height=230&amp;section=header&amp;text=NOOR%20ALAM&amp;fontSize=60&amp;fontColor=00F7FF&amp;font=Montserrat&amp;fontWeight=800&amp;stroke=0F0C29&amp;strokeWidth=3&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Spring%20Boot&amp;descAlignY=63&amp;descSize=18&amp;descColor=FFFFFF" width="100%" alt="Noor Alam Premium 3D Banner"/>
 
 <br>
 
-<!-- Profile Views + Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=khanmdalam&amp;label=PROFILE%20VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views"/>
 
@@ -31,8 +30,6 @@
 </p>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
