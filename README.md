@@ -295,38 +295,6 @@ Every project is an opportunity to learn something new and become a better devel
 
 ---
 
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing:
-
-💻 Software Development
-🚀 Full Stack Projects
-🧠 DSA & Competitive Programming
-☕ Java & Spring Boot
-⚛️ MERN Stack
-💼 Internship & Career Opportunities
-🤝 Collaboration & Open Source
-
-<br/>
-
-<a href="mailto:nooralam1342004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/khanmdalam">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
