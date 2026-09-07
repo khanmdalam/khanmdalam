@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;I+turn+ideas+into+working+products;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+%F0%9F%9A%80" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;I+turn+ideas+into+working+products;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+%F0%9F%9A%80)
+
+</div>
 
 <br/>
 
