@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 NOOR ALAM
-
 ### 💻 Full Stack Developer | Java • MERN • Spring Boot
 
 <!-- Animated Colorful 3D-Style Banner -->
