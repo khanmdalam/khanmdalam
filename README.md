@@ -199,22 +199,6 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 
 ---
 
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/ansari2004/">
-  <img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://github.com/khanmdalam">
-  <img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
 # 📚 Skills
 
 ### 💻 Development
