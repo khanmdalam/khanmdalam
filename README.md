@@ -156,18 +156,6 @@ The Full Stack Chat Application allows users to communicate instantly through a 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khanmdalam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmdalam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -229,16 +217,6 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 * Leadership
 * Quick Learning
 * Time Management
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanmdalam&amp;theme=tokyo-night&amp;hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
