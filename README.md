@@ -1,218 +1,313 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=Noor%20Alam&amp;fontSize=55&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20MERN&amp;descAlignY=58&amp;descSize=18&amp;descColor=AAAAFF" width="100%"/>
+# 👋 NOOR ALAM
 
-<div align="center">
+### 💻 Full Stack Developer | Java • MERN • Spring Boot
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;I+turn+ideas+into+working+products;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+%F0%9F%9A%80)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khanmdalam&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+</p>
 
-</div>
+> 🚀 Building scalable web applications
+> 🧠 Solving Data Structures & Algorithms problems
+> ☕ Passionate about Java, Backend Development & System Design
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=khanmdalam\&label=Profile%20Views\&color=00f7ff\&style=flat-square)](https://github.com/khanmdalam)
-
-[![GitHub](https://img.shields.io/badge/GitHub-khanmdalam-181717?style=flat-square\&logo=github)](https://github.com/khanmdalam)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:nooralam1342004@gmail.com)
-
-</div>
+<p align="left">
+  <a href="https://github.com/khanmdalam">
+    <img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/ansari2004/">
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:nooralam1342004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%" alt="Header"/>
 
 ## 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Engineering Student**
 
-💻 Passionate about **Software Engineering & Full Stack Development**
+💻 Aspiring **Software Engineer** with a strong interest in Full Stack Development and Backend Engineering.
 
-🧠 Solved **300+ Data Structures & Algorithms problems**
+🧠 Solved **300+ Data Structures & Algorithms problems** with a focus on problem solving and interview preparation.
 
-⚡ Building **scalable, responsive and user-friendly applications**
+☕ Passionate about **Java, Spring Boot, OOP and Backend Architecture**.
 
-☕ Strong interest in **Java, Spring Boot & Backend Development**
+🌐 Experienced in building applications using the **MERN Stack**.
 
-🌐 Experienced with the **MERN Stack**
+⚡ I enjoy turning ideas into **real-world, scalable and user-friendly applications**.
 
-🌱 Currently improving **System Design, Backend Development & DSA**
-
-🎯 Goal: Become a **Software Engineer**
+🌱 Currently focusing on **Spring Boot, System Design, Backend Architecture and Advanced DSA**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Quick Snapshot
 
-### 💻 Programming Languages
+| 🚀 Category        | 📌 Details                         |
+| ------------------ | ---------------------------------- |
+| 🎓 Education       | B.Tech CSE                         |
+| 💼 Career Goal     | Software Engineer                  |
+| ☕ Primary Language | Java                               |
+| 🌐 Full Stack      | MERN                               |
+| ⚙️ Backend         | Node.js • Express.js • Spring Boot |
+| 🧠 DSA             | 300+ Problems                      |
+| 🗄️ Databases      | MongoDB • MySQL • PostgreSQL       |
+| 🎯 Current Focus   | Backend • System Design • DSA      |
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql" />
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" alt="Programming Languages"/>
 </p>
 
-### 🌐 Frontend Development
+## 🌐 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend Technologies"/>
 </p>
 
-### ⚙️ Backend Development
+## ⚙️ Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Technologies"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases"/>
 </p>
 
-### 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 FreshMart — Online Grocery Store
+## 🛒 FreshMart — Online Grocery Store
 
-A full-stack grocery e-commerce platform with product management, authentication, cart and ordering functionality.
+> A full-stack e-commerce platform designed for online grocery shopping.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+### ✨ Features
 
----
+* 🔐 User authentication
+* 🛍️ Product browsing
+* 🛒 Shopping cart
+* 📦 Order management
+* 👤 User management
+* 📱 Responsive interface
+* 🔌 REST API integration
 
-### 💬 Full Stack Chat Application
+**Tech Stack**
 
-Real-time chat application with authentication and instant messaging using WebSockets.
-
-**Tech:** React • Node.js • MongoDB • Socket.io • JWT
-
----
-
-### 💼 MERN Job Recommendation Platform
-
-A full-stack job platform connecting candidates and recruiters with job management functionality.
-
-**Tech:** MongoDB • Express.js • React • Node.js
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🎫 Online Ticket Booking System
+## 💬 Full Stack Chat Application
 
-Full-stack ticket booking application designed to manage users, bookings and ticket-related operations.
+> A real-time communication platform with secure authentication and instant messaging.
 
-**Tech:** Java • JSP/Servlet • MySQL
+### ✨ Features
+
+* 🔐 JWT authentication
+* 💬 Real-time messaging
+* ⚡ Socket.io
+* 👥 User management
+* 🟢 Online communication
+* 🔒 Secure backend APIs
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Socket.io` `JWT`
 
 ---
 
-### 🎓 EduConnect / LMS
+## 💼 MERN Job Recommendation Platform
 
-Learning platform for managing educational content, users and learning activities.
+> A job platform designed to connect candidates and recruiters.
 
-**Tech:** React • JavaScript • Backend APIs
+### ✨ Features
+
+* 👤 Candidate profiles
+* 🏢 Recruiter functionality
+* 📋 Job creation
+* 🔎 Job discovery
+* 📄 Application management
+* 🔐 Authentication and authorization
+
+**Tech Stack**
+
+`MongoDB` `Express.js` `React` `Node.js`
 
 ---
 
-## 📊 GitHub Statistics
+## 🎫 Online Ticket Booking System
+
+> A Java-based ticket booking application for managing users, bookings and ticket operations.
+
+### ✨ Features
+
+* 👤 User management
+* 🎫 Ticket booking
+* 📋 Booking management
+* 🗄️ Database integration
+* 🔐 Authentication
+
+**Tech Stack**
+
+`Java` `JSP` `Servlet` `MySQL`
+
+---
+
+## 🎓 EduConnect / LMS
+
+> An educational platform for managing learning content, users and academic activities.
+
+### ✨ Features
+
+* 📚 Learning content
+* 👨‍🎓 Student management
+* 👨‍🏫 Educational resources
+* 🔐 Authentication
+* 🔌 Backend API integration
+
+**Tech Stack**
+
+`React` `JavaScript` `REST APIs`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khanmdalam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khanmdalam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmdalam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmdalam&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=khanmdalam&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=khanmdalam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🧠 DSA & Problem Solving
+# 🧠 DSA & Problem Solving
 
 <div align="center">
 
-### 💻 300+ Problems Solved
+## 💻 300+ Problems Solved
 
 </div>
 
-* 🟢 Solved **300+ DSA problems**
-* ☕ Primary problem-solving language: **Java**
-* 🧩 Strong focus on **Arrays, Strings, Linked Lists, Trees & Graphs**
-* 🔍 Practicing **Dynamic Programming & Advanced DSA**
-* 🎯 Preparing for **Software Engineering interviews**
-* 📚 Consistent focus on problem solving and coding
+### 🎯 My DSA Focus
+
+* 🟢 Arrays
+* 🟢 Strings
+* 🟢 Hashing
+* 🟢 Linked Lists
+* 🟢 Stacks & Queues
+* 🟢 Binary Trees
+* 🟢 Binary Search
+* 🟢 Graphs
+* 🟡 Recursion & Backtracking
+* 🟡 Dynamic Programming
+* 🟡 Advanced Problem Solving
+
+### ☕ Problem Solving Language
+
+**Java**
+
+> Consistently practicing DSA to improve problem-solving skills and prepare for Software Engineering interviews.
 
 ---
 
-## 📈 Coding Profiles
+# 📈 Coding Profiles
 
 <div align="center">
 
 <a href="https://github.com/khanmdalam">
-<img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://leetcode.com/ansari2004/">
-<img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 </div>
 
 ---
 
-## 🏆 Skills Progress
+# 🏆 Skills
 
-| 🚀 Area           | Level                  |
+| Skill             | Level                  |
 | ----------------- | ---------------------- |
-| 💻 Java           | 🔥 Advanced            |
+| ☕ Java            | 🔥 Advanced            |
 | 🌐 MERN Stack     | 🔥 Advanced            |
 | ⚛️ React          | 🚀 Strong              |
 | 🟢 Node.js        | 🚀 Strong              |
-| ☕ Spring Boot     | 🌱 Improving           |
+| 🍃 Spring Boot    | 🌱 Improving           |
 | 🧠 DSA            | 🔥 Consistent Practice |
 | 🗄️ Databases     | 🚀 Strong              |
 | 🏗️ System Design | 🌱 Learning            |
+| 🔌 REST APIs      | 🚀 Strong              |
+| 🔐 Authentication | 🚀 Strong              |
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-[![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanmdalam\&theme=tokyo-night\&hide_border=true)](https://github.com/khanmdalam)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanmdalam&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 ```text
-Java & Spring Boot
-        ↓
-Backend Architecture
-        ↓
-System Design
-        ↓
-Scalable Applications
-        ↓
-Software Engineering 🚀
+Java
+  │
+  ├── Object Oriented Programming
+  │
+  ├── Spring Boot
+  │
+  ├── REST APIs
+  │
+  ├── Backend Architecture
+  │
+  ├── System Design
+  │
+  └── Scalable Applications 🚀
 ```
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 * [x] Build Full Stack Projects
 * [x] Solve 300+ DSA Problems
@@ -220,25 +315,43 @@ Software Engineering 🚀
 * [x] Learn MERN Stack
 * [ ] Master Spring Boot
 * [ ] Improve System Design
+* [ ] Build Production-Ready Applications
 * [ ] Contribute to Open Source
+* [ ] Improve Competitive Programming
 * [ ] Crack a Software Engineering Role 🚀
 
 ---
 
-## 🤝 Let's Connect
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### **"Code. Learn. Build. Repeat."**
+
+**Every problem is an opportunity to learn something new.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/khanmdalam">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/ansari2004/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <a href="mailto:nooralam1342004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -247,10 +360,12 @@ Software Engineering 🚀
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat. 🚀"
+### ⭐ Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**
+**If you like my work, consider giving my repositories a ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
