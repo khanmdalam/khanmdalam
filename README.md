@@ -4,26 +4,31 @@
 
 ### 💻 Full Stack Developer | Java • MERN • Spring Boot
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=khanmdalam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+<!-- Colorful Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=NOOR%20ALAM&amp;fontSize=52&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Spring%20Boot&amp;descAlignY=60&amp;descSize=18" width="100%" alt="Noor Alam Header"/>
 
+<br>
+
+<!-- Profile Views + Social Badges -->
 <p>
+  <img src="https://komarev.com/ghpvc/?username=khanmdalam&amp;label=PROFILE%20VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views"/>
+
   <a href="https://github.com/khanmdalam">
-    <img src="https://img.shields.io/badge/GitHub-khanmdalam-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-KHANMDALAM-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="https://leetcode.com/ansari2004/">
-    <img src="https://img.shields.io/badge/LeetCode-ansari2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LEETCODE-ANSARI2004-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
   </a>
+
   <a href="mailto:nooralam1342004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nooralam1342004-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-NOORALAM1342004-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=NOOR%20ALAM&amp;fontSize=52&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Spring%20Boot&amp;descAlignY=60&amp;descSize=18" width="100%" alt="Header"/>
 
 </div>
 
